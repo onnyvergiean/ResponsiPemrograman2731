@@ -1,0 +1,13 @@
+I:\AMIKOM\sem 2\Pemrograman\ResponsiPemrograman2731\bin\Debug\netcoreapp3.1\ResponsiPemrograman2731.exe
+I:\AMIKOM\sem 2\Pemrograman\ResponsiPemrograman2731\bin\Debug\netcoreapp3.1\ResponsiPemrograman2731.deps.json
+I:\AMIKOM\sem 2\Pemrograman\ResponsiPemrograman2731\bin\Debug\netcoreapp3.1\ResponsiPemrograman2731.runtimeconfig.json
+I:\AMIKOM\sem 2\Pemrograman\ResponsiPemrograman2731\bin\Debug\netcoreapp3.1\ResponsiPemrograman2731.runtimeconfig.dev.json
+I:\AMIKOM\sem 2\Pemrograman\ResponsiPemrograman2731\bin\Debug\netcoreapp3.1\ResponsiPemrograman2731.dll
+I:\AMIKOM\sem 2\Pemrograman\ResponsiPemrograman2731\bin\Debug\netcoreapp3.1\ResponsiPemrograman2731.pdb
+I:\AMIKOM\sem 2\Pemrograman\ResponsiPemrograman2731\obj\Debug\netcoreapp3.1\ResponsiPemrograman2731.csprojAssemblyReference.cache
+I:\AMIKOM\sem 2\Pemrograman\ResponsiPemrograman2731\obj\Debug\netcoreapp3.1\ResponsiPemrograman2731.csproj.CoreCompileInputs.cache
+I:\AMIKOM\sem 2\Pemrograman\ResponsiPemrograman2731\obj\Debug\netcoreapp3.1\ResponsiPemrograman2731.AssemblyInfoInputs.cache
+I:\AMIKOM\sem 2\Pemrograman\ResponsiPemrograman2731\obj\Debug\netcoreapp3.1\ResponsiPemrograman2731.AssemblyInfo.cs
+I:\AMIKOM\sem 2\Pemrograman\ResponsiPemrograman2731\obj\Debug\netcoreapp3.1\ResponsiPemrograman2731.dll
+I:\AMIKOM\sem 2\Pemrograman\ResponsiPemrograman2731\obj\Debug\netcoreapp3.1\ResponsiPemrograman2731.pdb
+I:\AMIKOM\sem 2\Pemrograman\ResponsiPemrograman2731\obj\Debug\netcoreapp3.1\ResponsiPemrograman2731.genruntimeconfig.cache
